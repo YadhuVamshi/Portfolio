@@ -383,7 +383,7 @@ figure {
 }
 
 .info li .first-block {
-    width: 30%;
+    width: 25%;
     display: inline-block;
     float: left;
     color: #000;
@@ -391,7 +391,7 @@ figure {
 }
 
 .info li .second-block {
-    width: 70%;
+    width: 75%;
     display: inline-block;
     color: rgba(0, 0, 0, 0.5);
 }
